@@ -1,9 +1,0 @@
-
-I was called as: ./commandline.py
-
-My arguments are: 
-
-Hello
-World
-JAJA
-
