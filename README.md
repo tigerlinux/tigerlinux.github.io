@@ -10,15 +10,15 @@ You can (and should) view this page using Github Pages. Link:
 
 This repository (and it's github page counterpart) is divided on the following sections:
 
-* [Asterisk:](http://tigerlinux.github.io/recipes/asterisk/index.html) Everything related to Asterisk VoIP implementations.
-* [Databases:](http://tigerlinux.github.io/recipes/databases/index.html) Common recipes for MariaDB, MySQL, PostgreSQL and MongoDB - specially in the cloud.
-* [ISP Solutions:](http://tigerlinux.github.io/recipes/ispapps/index.html) Common ISP Applications and Platforms.
-* [Linux:](http://tigerlinux.github.io/recipes/linux/index.html) All linux related stuff.
-* [Misc. Recipes](http://tigerlinux.github.io/recipes/misc/index.html) General topics.
-* [Monitoring](http://tigerlinux.github.io/recipes/monitoring/index.html) Monitoring Solutions.
-* [Network Applications](http://tigerlinux.github.io/recipes/networkapps/index.html) Network Applications.
-* [OpenStack](http://tigerlinux.github.io/recipes/openstack/index.html) OpenStack related things. Real world deployments and general survival tips.
-* [Security](http://tigerlinux.github.io/recipes/security/index.html) General Security Tips and Applications.
+* [Asterisk:](http://tigerlinux.github.io/recipes/asterisk) Everything related to Asterisk VoIP implementations.
+* [Databases:](http://tigerlinux.github.io/recipes/databases) Common recipes for MariaDB, MySQL, PostgreSQL and MongoDB - specially in the cloud.
+* [ISP Solutions:](http://tigerlinux.github.io/recipes/ispapps) Common ISP Applications and Platforms.
+* [Linux:](http://tigerlinux.github.io/recipes/linux) All linux related stuff.
+* [Misc. Recipes](http://tigerlinux.github.io/recipes/misc) General topics.
+* [Monitoring](http://tigerlinux.github.io/recipes/monitoring) Monitoring Solutions.
+* [Network Applications](http://tigerlinux.github.io/recipes/networkapps) Network Applications.
+* [OpenStack](http://tigerlinux.github.io/recipes/openstack) OpenStack related things. Real world deployments and general survival tips.
+* [Security](http://tigerlinux.github.io/recipes/security) General Security Tips and Applications.
 
 **What's my motivation for doing this ?**
 
