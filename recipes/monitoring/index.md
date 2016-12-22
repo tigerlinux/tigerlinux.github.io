@@ -8,19 +8,13 @@
 - **[My Linkedin Profile - English](https://ve.linkedin.com/in/tigerlinux/en)**
 - **[My Linkedin Profile - Spanish](https://ve.linkedin.com/in/tigerlinux/es)**
 
-## SECTION
+## MONITORING SECTION
 
 
 ## Recipes in this category:
 
-- [Ansible - Configuration Managemrnt made easy !](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc/ansible-tutorial)
-- [Using AWS Tags for Service Discovery - A simple exercise with ansible, aws and some scripting](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc/aws-ansible-and-tags)
-- [CHEF tutorial - An infrastructure automation tool](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc/chef-tutorial)
-- [Using Jenkins, HEAT and Git to create Infrastructure as Code in OpenStack](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc)
-- [JUJU Tutorial - Canonical APT on the Cloud - Part 1](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc/juju-tut-part1)
-- [JUJU Tutorial - Canonical APT on the Cloud - Part 2](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc/juju-tut-part2)
-- [Python Exercises - from basic to not so basic](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc/python-learning)
-- [A Redmine installation with gitolite integration on Centos 7](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc/redmine-with-gitolite)
+- [An Icinga cloud install with dockerized database backend and cloud-based backups](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/monitoring/icinga-automated-install-for-the-cloud)
+- [A Zabbix 3 HA Cluster on Centos 7](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/monitoring/zabbix-3-ha-cluster)
 
 
 ### Navigation
