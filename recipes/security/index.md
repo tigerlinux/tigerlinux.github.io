@@ -8,12 +8,13 @@
 - **[My Linkedin Profile - English](https://ve.linkedin.com/in/tigerlinux/en)**
 - **[My Linkedin Profile - Spanish](https://ve.linkedin.com/in/tigerlinux/es)**
 
-## SECTION
+## SECURITY SECTION
 
 
 ## Recipes in this category:
 
-- [name](https://github.com/tigerlinux/tigerlinux-extra-recipes/blob/master/recipes/)
+- [SSL Hardening in common web/mail applications](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/security/SSL-Hardening)
+- [Simple IPTABLES tricks for connection rate limiting](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/security/iptables-conn-control)
 
 
 ### Navigation

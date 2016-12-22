@@ -16,7 +16,6 @@
 - [A Piranha-based SIP Load Balancer for Asterisk](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/networkapps/Piranha-LB-C6)
 - [A Squid Installation with STEROIDS !!](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/networkapps/squid-with-steroids)
 - [UniFi Software install on a Raspberry PI 2](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/networkapps/unifi-software-on-a-raspberrypi)
-- [name]( )
 
 
 ### Navigation
