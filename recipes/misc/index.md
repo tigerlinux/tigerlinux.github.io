@@ -3,7 +3,7 @@
 
 ## Recipes in this category:
 
-- [Ansible - Configuration Managemrnt made easy !](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc/ansible-tutorial)
+- [Ansible - Configuration Management made easy !](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc/ansible-tutorial)
 - [Using AWS Tags for Service Discovery - A simple exercise with ansible, aws and some scripting](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc/aws-ansible-and-tags)
 - [CHEF tutorial - An infrastructure automation tool](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc/chef-tutorial)
 - [Using Jenkins, HEAT and Git to create Infrastructure as Code in OpenStack](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc)
