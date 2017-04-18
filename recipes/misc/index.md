@@ -6,7 +6,7 @@
 - [Ansible - Configuration Management made easy !](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc/ansible-tutorial)
 - [Using AWS Tags for Service Discovery - A simple exercise with ansible, aws and some scripting](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc/aws-ansible-and-tags)
 - [CHEF tutorial - An infrastructure automation tool](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc/chef-tutorial)
-- [Using Jenkins, HEAT and Git to create Infrastructure as Code in OpenStack](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc)
+- [Using Jenkins, HEAT and Git to create Infrastructure as Code in OpenStack](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc/jenkins-openstack-heat-iac-ci)
 - [JUJU Tutorial - Canonical APT on the Cloud - Part 1](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc/juju-tut-part1)
 - [JUJU Tutorial - Canonical APT on the Cloud - Part 2](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc/juju-tut-part2)
 - [Python Exercises - from basic to not so basic](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc/python-learning)
