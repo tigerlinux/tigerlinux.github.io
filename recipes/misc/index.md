@@ -11,7 +11,7 @@
 - [JUJU Tutorial - Canonical APT on the Cloud - Part 2](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc/juju-tut-part2)
 - [Python Exercises - from basic to not so basic](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc/python-learning)
 - [A Redmine installation with gitolite integration on Centos 7](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc/redmine-with-gitolite)
-- [An Owncloud installation with CEPH Storage backend using both CEPH-RBD and CEPH-S3](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc/ceph-owncloud-lab)
+- [An Owncloud installation with CEPH Storage backend using both CEPH-RBD and CEPH-S3 + NEXTCLOUD with CEPH-S3 primary storage backend](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc/ceph-owncloud-lab)
 
 
 ### Navigation
