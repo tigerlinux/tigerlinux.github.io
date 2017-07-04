@@ -14,6 +14,7 @@
 - [An Owncloud installation with CEPH Storage backend using both CEPH-RBD and CEPH-S3 + NEXTCLOUD with CEPH-S3 primary storage backend](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc/ceph-owncloud-lab)
 - [Building a docker-swarm cluster with CoreOS](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc/docker-cluster-swarm-coreos)
 - [Clustering docker with Kubernetes on Atomic Centos](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc/kubernetes-cluster-atomic)
+- [Clustering docker with Mesos/Marathon on Ubuntu 16.04lts](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc/docker-mesos-marathon-ubuntu)
 
 
 ### Navigation
