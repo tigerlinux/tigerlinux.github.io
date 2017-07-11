@@ -3,7 +3,7 @@
 
 ## Recipes in this category:
 
-- [A Multi-Laayer/Multi-Server E-Mail platform for the corporate Cloud](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/ispapps/multi-layer-multi-server-email-platform)
+- [A Multi-Layer/Multi-Server E-Mail platform for the corporate Cloud](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/ispapps/multi-layer-multi-server-email-platform)
 - [Zimbra HA Install with corosync, pacemaker and drbd on Centos 7](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/ispapps/zimbra-cluster-centos7)
 
 
