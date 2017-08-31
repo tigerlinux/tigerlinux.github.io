@@ -16,6 +16,7 @@
 - [Clustering docker with Kubernetes on Atomic Centos](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc/kubernetes-cluster-atomic)
 - [Clustering docker with Mesos/Marathon on Ubuntu 16.04lts](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc/docker-mesos-marathon-ubuntu)
 - [Nextcloud with "Minio" (S3 Mode) storage backend - Centos7.](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc/minio-nextcloud-lab)
+- [General Application Automated Installers](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/misc/app-automated-installers) - Also part of [Onbrella Project](https://github.com/onbrella/app-installers).
 
 
 ### Navigation
