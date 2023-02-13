@@ -5,7 +5,6 @@
 
 - [Source code syntax highlighting in "LESS"](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/linux/less-source-highlighting)
 - [Loading linux kernel modules at boot time](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/linux/loading-kernel-modules-at-boot-time)
-- [Unattended installation templates for Centos, Debian and Ubuntu](https://github.com/tigerlinux/tigerlinux-extra-recipes/tree/master/recipes/linux/unattended)
 
 
 ### Navigation
